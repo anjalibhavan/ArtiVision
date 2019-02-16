@@ -1,1 +1,1 @@
-# NewVision
+Smart glasses that will enable a visually impaired person to 'read' without requiring knowledge of Braille. Written text is scanned by the glasses, converted to a readable image, then text from it is parsed and produced by the Google Cloud API. The text is then converted to speech which is read aloud using the Google Text-to-Speech API.
